@@ -1,0 +1,10 @@
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.csproj.AssemblyReference.cache
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Atualizar.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Cadastrar.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Consultarcs.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Excluir.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Form1.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.Properties.Resources.resources
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.csproj.GenerateResource.cache
+C:\Users\paulo.roliveira53\source\repos\EmpresaTi17T\EmpresaTi17T\obj\Debug\EmpresaTi17T.csproj.CoreCompileInputs.cache

@@ -17,21 +17,17 @@ namespace EmpresaTi17T
         Consultarcs con;
         Atualizar atu;
         Excluir exc;
+  
 
-        public Empresa()
-        {
-            InitializeComponent();
 
-            cad = new Cadastrar();
-            con = new Consultarcs();
-            atu = new Atualizar();
-            exc = new Excluir();
-
-        }
 
         public Form1()
         {
             InitializeComponent();
+            cad = new Cadastrar();
+            con = new Consultarcs();
+            atu = new Atualizar();
+            exc = new Excluir();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -41,7 +37,7 @@ namespace EmpresaTi17T
 
         private void button1_Click(object sender, EventArgs e)
         {
-            cad.ShowDialogo
+          
 
         }//FIM DO CADASTRAR
 

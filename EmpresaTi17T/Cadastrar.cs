@@ -31,5 +31,10 @@ namespace EmpresaTi17T
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

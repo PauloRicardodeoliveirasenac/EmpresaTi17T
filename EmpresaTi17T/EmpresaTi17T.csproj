@@ -110,6 +110,8 @@
     <Compile Include="Cadastrar.Designer.cs">
       <DependentUpon>Cadastrar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClasseDAO.cs" />
     <Compile Include="Consultarcs.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +124,13 @@
     <Compile Include="Excluir.Designer.cs">
       <DependentUpon>Excluir.cs</DependentUpon>
     </Compile>
+    <Compile Include="Excluirpessoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluirpessoa.Designer.cs">
+      <DependentUpon>Excluirpessoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluirpessoacs.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -141,6 +150,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Excluir.resx">
       <DependentUpon>Excluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluirpessoa.resx">
+      <DependentUpon>Excluirpessoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
